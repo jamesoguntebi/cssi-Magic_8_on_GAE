@@ -1,0 +1,11 @@
+1. [AE, Python] Bring Magic 8 Ball into App Engine
+    - new directory, yaml file, main.py, templates, etc.
+2. [HTML] Add a form
+    a. An idea might be to ask the user how they're feeling
+    b. If they're feeling positive, make positive responses more likely
+3. [Python] When the user asks to shake the ball, give them a response based on how they're feeling
+    - get a random item from a list
+    - random.choice(<list>)
+4. [CSS] When the ball shakes, make it actually shake ... visually. Fade the response in
+    - google 'CSS animation'
+5. [Javascript] When you move your mouse over the ball, make the ball change colors ... randomly ... and keep doing so while the mouse is moving over it.
